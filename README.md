@@ -1,4 +1,4 @@
-# CodeTech-DataScience-Task2-DeepLearning using tensorflow and scikitlearn
+# CodeTech-DataScience-Task2-DeepLearning using tensorflow,keras and scikitlearn
 COMPANY: CODETECH IT SOLUTIONS<br>
 NAME: ABHISHEK DHALADHULI<br>
 INTERN ID: CT6WVEQ<br>
