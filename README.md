@@ -1,10 +1,4 @@
-# CodeTech-DataScience-Task2-DeepLearning using tensorflow,keras and scikitlearn
-COMPANY: CODETECH IT SOLUTIONS<br>
-NAME: ABHISHEK DHALADHULI<br>
-INTERN ID: CT6WVEQ<br>
-DOMAIN: DATA SCIENCE<br>
-DURATION:6 WEEKS<br>
-MENTOR:NEELA SANTHOSH<br>
+
 # Introduction
 
 This project focuses on building a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset contains 60,000 32x32 color images divided into 10 classes, with 6,000 images per class. The primary goal is to develop a model that can accurately categorize these images into their respective classes, such as airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks.
